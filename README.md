@@ -6,12 +6,23 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 
 If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+```console
+$ npm init svelte@next timesearch-chrome-extension
 
-# create a new project in my-app
-npm init svelte@next my-app
+create-svelte version 2.0.0-next.127
+
+Welcome to SvelteKit!
+
+This is beta software; expect bugs and missing features.
+
+Problems? Open an issue on https://github.com/sveltejs/kit/issues if none exists already.
+
+✔ Which Svelte app template? › Skeleton project
+✔ Use TypeScript? … No / Yes
+✔ Add ESLint for code linting? … No / Yes
+✔ Add Prettier for code formatting? … No / Yes
+✔ Add Playwright for browser testing? … No / Yes
+
 ```
 
 > Note: the `@next` is temporary
